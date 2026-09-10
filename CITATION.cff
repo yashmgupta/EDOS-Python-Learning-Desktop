@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use EDOS in research, teaching studies, workshops, publications, or academic projects, please cite this software."
+title: "EDOS — Educational Desktop Operating Simulator"
+type: software
+authors:
+  - family-names: "Gupta"
+    given-names: "Yash Munnalal"
+version: "1.0.0"
+abstract: >-
+  EDOS is a browser-based educational desktop environment for beginner Python
+  learning. It provides client-side Python execution through Pyodide,
+  beginner-friendly editing and terminal tools, a Jupyter-style notebook,
+  package support, educational lessons, data-analysis examples, and a live
+  GitHub-hosted learning library.
+keywords:
+  - Python
+  - education
+  - Pyodide
+  - WebAssembly
+  - Jupyter
+  - programming education
+  - browser Python
+  - educational technology
+  - data science education
+license: "LicenseRef-EDOS-Source-Visible-Collaboration-License"
