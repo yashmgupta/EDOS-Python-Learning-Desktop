@@ -321,3 +321,27 @@ If EDOS is useful in your classroom, institution, workshop, or research:
 - 🤝 Collaborate through the official repository
 
 **EDOS — Learn Python. Experiment safely. No installation required.**
+
+## 📚 Research Publication
+
+EDOS — Educational Desktop Operating Simulator is documented in a publicly available scientific preprint.
+
+**Publication:**
+
+Gupta, Yash Munnalal (2026). *EDOS: Design and Implementation of a Browser-Based Python Learning Environment for Programming and Biological Data Science Education*. Zenodo (Preprint).
+
+**DOI:** https://doi.org/10.5281/zenodo.23319351
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23319351.svg)](https://doi.org/10.5281/zenodo.23319351)
+
+### How to Cite
+
+If you use EDOS in academic research, teaching studies, scientific publications, or educational development, please cite the research paper above.
+
+EDOS is developed by **Yash Munnalal Gupta**, Department of Biology, Faculty of Science, Naresuan University, Thailand.
+
+**Research Collection:** Orivexa Research
+
+**Project:** https://github.com/yashmgupta/EDOS-Python-Learning-Desktop
+
+The manuscript is a publicly archived preprint and has not been represented as a peer-reviewed journal publication.
