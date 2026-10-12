@@ -23,3 +23,14 @@ keywords:
   - educational technology
   - data science education
 license: "LicenseRef-EDOS-Source-Visible-Collaboration-License"
+
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Gupta"
+      given-names: "Yash Munnalal"
+  title: "EDOS: Design and Implementation of a Browser-Based Python Learning Environment for Programming and Biological Data Science Education"
+  year: 2026
+  doi: "10.5281/zenodo.23319351"
+  url: "https://doi.org/10.5281/zenodo.23319351"
