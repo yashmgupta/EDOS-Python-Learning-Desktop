@@ -328,7 +328,7 @@ EDOS — Educational Desktop Operating Simulator is documented in a publicly ava
 
 **Publication:**
 
-Gupta, Yash Munnalal (2026). *EDOS: Design and Implementation of a Browser-Based Python Learning Environment for Programming and Biological Data Science Education*. Zenodo (Preprint).
+Gupta, Yash Munnalal (2026). *EDOS: Design and Implementation of a Browser-Based Python Learning Environment for Programming and Biological Data Science Education*. Orivexa Research (Preprint).
 
 **DOI:** https://doi.org/10.5281/zenodo.23319351
 
